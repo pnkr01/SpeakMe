@@ -7,7 +7,8 @@
 
 **Description**
 
-- Using this application, we can interact with AWS Polly.
+- Using this application, we can interact with AWS Polly for converting text to speech.
+- Used python lib **tkinter** for GUI and coding.
 
 **Running the app**
 
@@ -17,18 +18,6 @@ cd SpeakMe
 python main.py
 ```
 
-## Test
-
-```bash
-# unit tests
-$ npm run test
-
-# e2e tests
-$ npm run test:e2e
-
-# test coverage
-$ npm run test:cov
-```
 
 **Stay in touch**
 
