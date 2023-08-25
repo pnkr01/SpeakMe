@@ -7,7 +7,7 @@
 
 **Description**
 
-- Using this application, we can interact with AWS Polly, Here we are using it to converts Text to speech.
+- Using this application, we can interact with AWS Polly.
 
 **Running the app**
 
