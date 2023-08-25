@@ -4,7 +4,7 @@ from contextlib import closing
 
 from error.error import handle_io_error
 def aws_config():
-    return boto3.session.Session(profile_name="pawan")
+    return boto3.session.Session(profile_name="demo_profile")
 def aws_client(aws_mag_con):
     return aws_mag_con.client(service_name='polly', region_name="us-east-1")
 def handle_speech_service(response):
